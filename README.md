@@ -5,4 +5,4 @@ Group Members: Chew Ji Xiang (Group Leader), Chang Jie Jeng, Lew Kai Lun and Tan
 3 Extensions included in this assignment
 1. Calculator extension
 2. AroundYou extension
-3. Notes entension 
+3. Notes extension 

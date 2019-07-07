@@ -76,7 +76,7 @@ for (var i = 0; i < keys.length; i++) {
             copy(inputVal, 'text/plain');
             button = '';
         }
-        if (button == 'c') {
+        if (button == 'clear') {
             input.textContent = '';
             decimalAdded = false;
         }

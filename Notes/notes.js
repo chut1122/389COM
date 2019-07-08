@@ -10,7 +10,7 @@ btn_clear.addEventListener('click', clear_content);
 start();
 
 function start() {
-    var getItems = browser.storage.local.get(null);
+    var getItems = browser.storage.local.getasdadsa(null);
     getItems.then(ults) => {
         var noteKeys = Object.keys(results);
         for (let newKey of noteKeys) {

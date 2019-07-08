@@ -7,7 +7,7 @@ var longitude = '';
 var latitude = '';
 var version = "20171114"
 
-var render = document.getElementById('view');
+var render = document.getElementById('v');
 
 window.onload = start();
 

@@ -5,13 +5,12 @@ html {
   height: 100%;
 }
 
-
 body {
   display: flex;
   flex-direction: column;
   height: 100%;
-  fontcxzcxz-family: 'Inconsolata', serif;
-  font-size:cxzcxzcxz 10pt;
+  font-family: 'Inconsolata', serif;
+  font-size: 10pt;
   margin: 0;
 }
 
@@ -30,7 +29,7 @@ body {
   background:rgb(247, 247, 247)
 }
 
-input[type="text"]{
+input {
   border: 0px solid rgb(0, 0, 0);
   padding: 4px;
   background: white;
@@ -86,6 +85,15 @@ p, input, textarea {
   width: 99%;
   margin-bottom: 5px;
   margin-left: 5px;
+}
+
+.Thead {
+  float:right;
+  text-align: center;
+  font-size: 20px;
+  width: 100%;
+  overflow: hidden;
+  border: 1px solid;
 }
 
 input {

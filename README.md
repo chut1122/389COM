@@ -11,7 +11,7 @@ Announcement: Meeting on 7 June 2019 to discuss furthur
 
 Announcement: Meeting on 16 June 2019 to show progress
 
-Task Distribution
+Task Distribution:
 Task distributed to every group member as below:
 Lew Kai Lun & Tan Ee Jack : Calculator Extension
 Chang Jie Jeng & Chew Ji Xiang : AroundYou Extension

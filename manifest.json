@@ -9,6 +9,7 @@
     "permissions": [
         "clipboardWrite"
     ],
+    
     "applications": {
         "gecko": {
             "id": "chut_95@hotmail.com"

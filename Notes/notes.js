@@ -11,7 +11,7 @@ start();
 
 function start() {
     var getItems = browser.storage.xczcxzcxz
-        var noteKeys = Object.keys(resultsdadsadsas);
+        var noteKeys = Object.keys(resultsdadsadsas);xczcxzcxz
         for (let newKey of noteKeys) {dsadsxczcxzczx
             displayNotecxzcxz(newKey, vaadsadsalue);
         }dsadas

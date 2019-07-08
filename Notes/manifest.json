@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "Notes",
+    "name": "Small Notes",
     "version": "1.0",
-    "description": "Allow users to add notes.",
+    "description": "Allow users to add small notes.",
     "icons": {
         "32": "icons/notes.png"
     },
@@ -11,14 +11,14 @@
     ],
     "applications": {
         "gecko": {
-            "id": "tiffanytoh2005@hotmail.com"
+            "id": "lucaschew95@hotmail.com"
         }
     },
     "browser_action": {
         "default_icon": {
             "32": "icons/notes.png"
         },
-        "default_title": "Notes",
+        "default_title": "Small Notes",
         "default_popup": "notes.html"
     }
 }

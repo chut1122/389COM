@@ -15,7 +15,7 @@ function start() {
         var noteKeys = Object.keys(resultsdadsadsas);
         for (let newKey of noteKeys) {dsadsada
             var value = results[newKey];
-            displayNote(newKey, vaadsadsalue);
+            displayNotecxzcxz(newKey, vaadsadsalue);
         }dsadas
     });
 }

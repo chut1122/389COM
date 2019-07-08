@@ -1,6 +1,7 @@
-{  
+{
+    
     "manifest_version": 2,
-    "name": "WhatsNearBy",
+    "name": "AroundYou",
     "version": "1.0",
     "description": "Check what is nearby you.",
     "icons": {
@@ -12,16 +13,16 @@
     ],
     "applications": {
         "gecko": {
-            "id": "hanny562@hotmail.com"
+            "id": "chut_95@hotmail.com"
         }
     },
     "background": {
-        "scripts": ["whatsnearby.js"]
+        "scripts": ["aroundyou.js"]
     },
     "browser_action": {
         "default_icon": "icons/48.png",
-        "default_title": "What's Nearby",
-        "default_popup": "whatsnearby.html"
+        "default_title": "Around You",
+        "default_popup": "aroundyou.html"
     }
     
 }

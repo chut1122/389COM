@@ -16,7 +16,7 @@ function start() {
         for (let newKey of noteKeys) {
             var value = results[newKey];
             displayNote(newKey, value);
-        }
+        }dsadas
     });
 }
 

@@ -6,3 +6,17 @@ Group Members:  Lew Kai Lun (Group Leader), Chang Jie Jeng, Chew Ji Xiang, and T
 1. Calculator extension
 2. AroundYou extension
 3. Notes extension 
+
+
+Task Distribution
+Task distributed to every group member as below:
+Lew Kai Lun & Tan Ee Jack : Calculator Extension
+Chang Jie Jeng & Chew Ji Xiang : AroundYou Extension
+Lew Kai Lun, Tan Ee Jack, Chang Jie Jeng & Chew Ji Xiang: Notes Extension
+
+Meeting Notes:
+Confirmed Ideas about the group project
+Which consist of note, calculator and aroundme
+
+
+

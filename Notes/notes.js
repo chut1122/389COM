@@ -11,7 +11,7 @@ start();
 
 function start() {
     var getItems = browser.storage.local.get(null);
-    getItems.then((results) => {
+    getItems.then(ults) => {
         var noteKeys = Object.keys(results);
         for (let newKey of noteKeys) {
             var value = results[newKey];

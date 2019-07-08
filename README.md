@@ -7,6 +7,9 @@ Group Members:  Lew Kai Lun (Group Leader), Chang Jie Jeng, Chew Ji Xiang, and T
 2. AroundYou extension
 3. Notes extension 
 
+Announcement: Meeting on 7 June 2019 to discuss furthur
+
+Announcement: Meeting on 16 June 2019 to show progress
 
 Task Distribution
 Task distributed to every group member as below:

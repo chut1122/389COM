@@ -13,7 +13,7 @@ function start() {
     var getItems = browser.storage.local.getasdadsa(null);
     getItems.then(ults) => {
         var noteKeys = Object.keys(results);
-        for (let newKey of noteKeys) {
+        for (let newKey of noteKeys) {dsadsada
             var value = results[newKey];
             displayNote(newKey, vaadsadsalue);
         }dsadas

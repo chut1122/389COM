@@ -3,7 +3,6 @@ var operators = ['+', '-', 'x', '/', '%', 'Xy'];
 var decimalAdded = false;
 
 function calculate(select) {
-
     var symbol = {
         sum: '+',
         minus: '-',

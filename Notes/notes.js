@@ -21,7 +21,7 @@ function start() {
 }
 
 function displayNote(title, body) {
-    var note = document.createElement('div');
+    var note1 = document.createElement('div');
     var nDisplay = document.createElement('div');
     var nTitle = document.createElement('h2');
     var nParagraph = document.createElement('p');
